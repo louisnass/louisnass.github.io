@@ -27,9 +27,9 @@ remDr<-remote_driver$client
 remDr$open()
 remDr$navigate("https://portal.volleymetrics.hudl.com/?utm_content=volleymetrics_primary&utm_source=www.hudl.com&utm_medium=login_dropdown&utm_campaign=platform_logins#/auth/login")
 username <- remDr$findElement(using = "xpath", value = '//*[@id="username"]')
-username$sendKeysToElement(list("tulane"))
+username$sendKeysToElement(list("insert username here"))
 password <-remDr$findElement(using = "xpath", value = '//*[(@id = "password")]')
-password$sendKeysToElement(list("rollwave"))
+password$sendKeysToElement(list("insert password here"))
 login<-remDr$findElement(using = "xpath", value = "//button[text()='LOGIN']")
 login$clickElement()
 
