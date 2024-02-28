@@ -7,6 +7,6 @@ Through rigorous mathematical analysis of the model, we explain certain qualitie
 
 Through numerical techniques, we simulate and visualize coral populations that emerge from CAFI interactions.
 
-![CoralPop](https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/MathModelCoralEcology/SizeFrequencyAnalysis/Coral_CAFI_Snapshot.jpeg)
+![CoralPop](https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/MathModelCoralEcology/SizeFrequencyAnalysis/Coral_CAFI_Snapshot.jpg)
 
 Here is a [talk](https://github.com/louisnass/louisnass.github.io/blob/master/MathModelCoralEcology/SizeFrequencyAnalysis/Coral_CAFI_Grad_Student_Colloquium.pdf) that breifly describes some of the work. More to come with my dissertation...
