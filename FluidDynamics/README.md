@@ -11,3 +11,14 @@ Here we develop an immursed boundary inside an incompressible fluid. We numerica
     <img src="https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/FluidDynamics/Gifs%20of%20Fluids/Multiple_angles.gif" alt="MultipleAngles" width="300">
     <p>Angles developing</p>
 </div>
+
+<div style="float: left; width: 50%;">
+    <img src="https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/FluidDynamics/Gifs%20of%20Fluids/Tensile_test_contract.gif" alt="SineWavesFlatten" width="300">
+    <p>Swimmers flattening</p>
+</div>
+
+<div style="float: right; margin-left: 20px; width: 50%;">
+    <img src="https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/FluidDynamics/Gifs%20of%20Fluids/Tensile_test_expand.gif" alt="MultipleAngles" width="300">
+    <p>Angles developing</p>
+</div>
+
