@@ -7,4 +7,4 @@ I took on this project to assist my academic advisor Scott McKinley with his sum
 
 Here I scraped data from [Volleymetrics](https://portal.volleymetrics.hudl.com/#/auth/login) to create data frames from [division 1](https://github.com/louisnass/louisnass.github.io/blob/master/SportsAnalytics/VolleyballAnalytics/D1_volleyball.csv), [division 2](https://github.com/louisnass/louisnass.github.io/blob/master/SportsAnalytics/VolleyballAnalytics/D2_volleyball.csv), and [division 3](https://github.com/louisnass/louisnass.github.io/blob/master/SportsAnalytics/VolleyballAnalytics/D3_volleyball.csv) teams. 
 
-"Volleyball grapics"
+![VolleyballData](https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/SportsAnalytics/VolleyballAnalytics/HPvWP.png)
