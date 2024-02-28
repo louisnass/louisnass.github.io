@@ -1,9 +1,14 @@
 ---
-layout: post
-title: My First Post
-date: 2024-02-27
+layout: default
+title: Home
 ---
 
-# My First Post
+# Welcome to My Jekyll Site
 
-This is the content of my first post written directly on GitHub.
+This is the homepage of my Jekyll site. You can include text, images, links, and more using Markdown syntax.
+
+## Recent Posts
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
