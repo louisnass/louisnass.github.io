@@ -1,4 +1,4 @@
-# Fluids Dynamics
+# Fluid Dynamics
 
 ## Final Project:
 
