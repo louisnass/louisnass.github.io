@@ -1,6 +1,6 @@
 # Site settings
-title: My Jekyll Site
-description: A simple Jekyll site
+title: Louis Nass
+description: About me and my academic endeavors! 
 baseurl: "/my-jekyll-site" # the subpath of your site, e.g., /blog or /my-jekyll-site
 
 # Build settings
