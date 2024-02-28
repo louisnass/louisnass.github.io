@@ -10,11 +10,11 @@ Using "true value" parameters, we then generate data that simulates fish settlem
 <div style="display: flex; flex-wrap: wrap;">
     <div style="width: 50%;">
         <img src="https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/MathModelCoralEcology/BayesianEstimation/Uniform.jpeg" alt="Contract" width="300">
-        <p>Swimmer contracting</p>
+        <p>Uniform markers</p>
     </div>
     <div style="width: 50%;">
         <img src="https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/MathModelCoralEcology/BayesianEstimation/Clustered.jpeg" alt="Expand" width="300">
-        <p>Swimmer expanding</p>
+        <p>Clustered markers</p>
     </div>
 </div>
 
