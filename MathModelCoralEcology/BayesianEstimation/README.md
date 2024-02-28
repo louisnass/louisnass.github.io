@@ -10,3 +10,5 @@ Labelled "settlers from the black lagoon" we define a toy problem that models fi
 Using "true value" parameters, we then generate data that simulates fish settlement according to our model. Then, we use Bayes' theorem to develop a posterior for the desired parameters from our simulated data. We implement a Metropolis-Hastings to approximate the resulting posterior distributions of the "unknown" parameters in the model. 
 
 "Posterior dists"
+
+Here is my [presentation](https://github.com/louisnass/louisnass.github.io/blob/master/MathModelCoralEcology/BayesianEstimation/Prob_II_Final.pdf).
