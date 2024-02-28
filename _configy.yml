@@ -1,0 +1,8 @@
+# Site settings
+title: My Jekyll Site
+description: A simple Jekyll site
+baseurl: "/my-jekyll-site" # the subpath of your site, e.g., /blog or /my-jekyll-site
+
+# Build settings
+markdown: kramdown
+theme: minima # the name of the theme you're using
