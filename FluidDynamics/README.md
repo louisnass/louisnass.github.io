@@ -1,8 +1,10 @@
 # Fluids Dynamics
 
 ## Final Project:
-Here we develop an immursed boundary inside an incompressible fluid. We numerically solve for the tensile and bending forces of the immursed boundary in the fluid. There is a folder of GIF's that display various types of IB examples. Here is my [report](https://github.com/louisnass/louisnass.github.io/blob/master/FluidDynamics/Biofluids_Project_final.pdf) done in collaboration with Sang Eun Lee.
 
+The goal is to model the velocities of an incompressible fluid with an immersed boundary.
+
+In tandem with [Sang Eun Lee](https://www.linkedin.com/in/sang-eun-lee-3a48571a1/), we numerically solve the fluid Navier-Stokes equations with forces resulting from an immersed boundary. Below are crude examples of immersed boundaries that have an "undesired" initial condition: 
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
     <div>
@@ -22,3 +24,5 @@ Here we develop an immursed boundary inside an incompressible fluid. We numerica
         <p>Angles developing</p>
     </div>
 </div>
+
+We observe that the forces of the immersed boundary create a steady-state shape over time. Here is our associated [report](https://github.com/louisnass/louisnass.github.io/blob/master/FluidDynamics/Biofluids_Project_final.pdf).
