@@ -7,9 +7,9 @@ title: Home
 
 ## About me:
 
-My name is Louis Nass, I am a research assistant pursuing my doctorate in Applied Mathematics at Tulane University.
+My name is Louis Nass, I am a Research Assistant pursuing my Doctorate in Applied Mathematics at Tulane University (Roll wave!).
 
-I am from Wisconsin and received my Bachelor's in Science at Marquette University (Ring out ahoya!)
+I am from Wisconsin and received my Bachelor's of Science in Mathematics at Marquette University (Ring out ahoya!).
 
 My academic interests include a variety of topics such as:
 * Ordinary/partial differential equations
