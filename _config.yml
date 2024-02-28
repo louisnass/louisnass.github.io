@@ -1,7 +1,7 @@
 # Site settings
 title: Louis Nass
 description: About me and my academic endeavors! 
-baseurl: "/my-jekyll-site" # the subpath of your site, e.g., /blog or /my-jekyll-site
+
 
 # Build settings
 markdown: kramdown
