@@ -24,6 +24,10 @@ Other interests of mine:
 * Food (all things New Orleans!)
 * Travel (Argentina, UK, Iceland, Mexico and hopefully more stops!)
 
+Find me on:
+* [GitHub](https://github.com/louisnass/louisnass.github.io/)
+* [LinkedIn](https://www.linkedin.com/in/louis-nass-5362482b5/)
+
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
