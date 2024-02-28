@@ -1,4 +1,6 @@
-# Final Project for Fluids Dynamics
+# Fluids Dynamics
+
+## Final Project:
 Here we develop an immursed boundary inside an incompressible fluid. We numerically solve for the tensile and bending forces of the immursed boundary in the fluid. There is a folder of GIF's that display various types of IB examples. Here is my [report](https://github.com/louisnass/louisnass.github.io/blob/master/FluidDynamics/Biofluids_Project_final.pdf) done in collaboration with Sang Eun Lee.
 
 
