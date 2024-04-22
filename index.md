@@ -28,6 +28,8 @@ Find me on:
 * [GitHub](https://github.com/louisnass/louisnass.github.io/)
 * [LinkedIn](https://www.linkedin.com/in/louis-nass-5362482b5/)
 
+![MeAndAnna](https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/MeAndAnna.png)
+
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
