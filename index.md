@@ -7,7 +7,7 @@ title: Home
 
 ## About me:
 
-My name is Louis Nass, I am a Research Assistant pursuing my Doctorate in Applied Mathematics at Tulane University (Roll wave!).
+My name is Louis Nass, I am a recent graduate from Tulane University where I earned my Ph.D in Applied Mathematics (Roll wave!).
 
 I am from Wisconsin and received my Bachelor's of Science in Mathematics at Marquette University (Ring out ahoya!).
 
