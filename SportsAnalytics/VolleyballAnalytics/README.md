@@ -19,6 +19,6 @@ Presently, I have collaborated with the Tulane Women's D-1 Volleyball team, as a
 
 ![player1Evaluation_digScore](https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/SportsAnalytics/VolleyballAnalytics/digScore_samplePlayer1.pdf)
 
-![player2Evaluation_pointWin](https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/SportsAnalytics/VolleyballAnalytics/pointWin_samplePlayer2.png)
+![player2Evaluation_pointWin](https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/SportsAnalytics/VolleyballAnalytics/pointWin_samplePlayer2.pdf)
 
 ![player2Evaluation_digScore](https://raw.githubusercontent.com/louisnass/louisnass.github.io/master/SportsAnalytics/VolleyballAnalytics/digScore_samplePlayer2.pdf)
