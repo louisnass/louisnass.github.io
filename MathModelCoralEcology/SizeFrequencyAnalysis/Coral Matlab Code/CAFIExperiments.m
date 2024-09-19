@@ -3,7 +3,7 @@ lam0=10^(-5);
 mu=0.004;
 
 % %Experiment 1: Maatea
-% %I am not sure what branching vs tight is so we will do 3 rows by 15
+% 
 % %columns
 % radiusMin=2.5;
 % radiusMax=25;
