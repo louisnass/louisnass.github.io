@@ -1,3 +1,17 @@
+#-------------------------------------------------------------------------------
+#
+# Title: Sample of Selenium Scraping for Volleyball Statistics
+#
+#-------------------------------------------------------------------------------
+#
+# Description: We use Selenium to webdrive and convert JavaScript documents into
+# readable HTML documents for data collection. We demonstrate a small example that 
+# collects data from VolleyMetrics (which requires a login and password). Given a
+# collection of teams, we can implement this methodology to expedite data collection
+#
+#-------------------------------------------------------------------------------
+
+#Loading necessary libraries
 library(RSelenium)
 library(wdman)
 library(netstat)
